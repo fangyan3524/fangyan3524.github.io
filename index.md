@@ -1,3 +1,66 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@fangyan3524.github.io 
+fangyan3524.github.io
+/
+fangyan3524.github.io
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+fangyan3524.github.io/index.html
+@machuan13
+machuan13 Add files via upload
+Latest commit 09974c4 on 30 Jun
+ History
+ 1 contributor
+307 lines (282 sloc)  12.6 KB
+  
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"
+    />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="format-detection" content="email=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="renderer" content="webkit">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Amaze UI" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>我的个人主页</title>
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/typo.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/index.css">
+    <script>
+        function loading() {
+            document.getElementsByClassName('avatar')[0].style.display = 'block';
+            document.getElementsByClassName('loading')[0].style.display = 'none';
+        }
+    </script>
+</head>
+
+<body>
 <header class="header"></header>
 
 <article class="container">
